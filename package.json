@@ -1,0 +1,20 @@
+{
+    "name": "code",
+    "version": "1.0.0",
+    "description": "",
+    "main": "1-app01.js",
+    "scripts": {
+        "build": "node 3-app03.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "art-template": "^4.12.2",
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3",
+        "express-art-template": "^1.0.1",
+        "jquery": "^3.3.1",
+        "mysql": "^2.16.0"
+    }
+}
